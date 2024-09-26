@@ -140,10 +140,35 @@ demonstrating that American boys and girls can hold hands under the same trees t
 	  <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1921-03-27/ed-1/seq-61/</id>
 	  <rel>0</rel>
 	</result>
+	<!-- Additional documents search -->
 	<result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn84026749/1913-04-06/ed-1/seq-10/</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn83045462/1956-06-27/ed-1/seq-64/</id>
+        <rel>0</rel>
+	</result>
+	<result>
+	  <id>https://chroniclingamerica.loc.gov/lccn/sn82015411/1919-11-18/ed-1/seq-2/</id>
+	  <rel>0</rel>
+	</result>
+	<result>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn83025812/1936-04-17/ed-1/seq-7/</id>
         <rel>1</rel>
+	<text> Washington Hasn't The Only Japanese Cherries
+As lovely as any Japanese cherry tree that blossoms in Washington, is the opinion of hundreds of people who have ridden out 
+West Main Street during the past two weeks to view a Japanese cherry tree in full bloom in the yard of the Howard Kramers.
+The tree in question is large and beautifully formed, and the yield of blossoms is luxurious. It came into bloom about two weeks ago.</text>
+	</result>
+	<result>
+	  <id>https://chroniclingamerica.loc.gov/lccn/sn86091196/1922-07-21/ed-1/seq-10/</id>
+	  <rel>0</rel>
+	  </result>
+	<result>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn85040437/1922-04-13/ed-1/seq-7/</id>
+        <rel>0</rel>
 	<text> 
+
+
+		
+	
       </result>
     </results>
   </topic>
